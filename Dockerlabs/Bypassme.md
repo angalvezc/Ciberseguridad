@@ -21,3 +21,5 @@ password: admin' or '1'='1</h3>
 <h3>Con esta herramienta podemos identificar o encontrar rutas no publicas en un sitio web</h3>
 <img width="459" height="410" alt="image" src="https://github.com/user-attachments/assets/75f09f3e-0880-4113-8062-e855b97074ce" />
 <h3>Como podemos ver exite la ruta /logs con 403 acceso restringido</h3>
+<h2>7. Intentamos entrar a la direccion</h2>
+<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/3a7b9ce4-5488-42d4-b15b-790160054d07" />
