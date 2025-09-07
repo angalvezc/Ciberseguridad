@@ -30,4 +30,6 @@ password: admin' or '1'='1</h3>
 <img width="619" height="276" alt="image" src="https://github.com/user-attachments/assets/7213f441-92b6-488a-ab49-4ecbc6b6c1eb" />
 <h3>Podemos visualizar los procesos que se realizan en el sistema y que se esta realizando un socat ejecutando la bash como el usuario conx</h3>
 <img width="1071" height="327" alt="image" src="https://github.com/user-attachments/assets/d57ae49b-8f89-4b1e-abe6-43bef5a94d52" />
-
+<h2>9. Nos conectamos socket Unix con el usuario conx</h2>
+<h3>Nos conectamos al sheel remoto o local utilizando el socket Unix que pertenece a conx, y teniendo ahora los mismos privilegios que conx</h3>
+<img width="576" height="96" alt="image" src="https://github.com/user-attachments/assets/17eca804-38dc-41ee-9ed9-562317aad25a" />
