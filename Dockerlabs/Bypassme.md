@@ -33,3 +33,7 @@ password: admin' or '1'='1</h3>
 <h2>9. Nos conectamos socket Unix con el usuario conx</h2>
 <h3>Nos conectamos al sheel remoto o local utilizando el socket Unix que pertenece a conx, y teniendo ahora los mismos privilegios que conx</h3>
 <img width="576" height="96" alt="image" src="https://github.com/user-attachments/assets/17eca804-38dc-41ee-9ed9-562317aad25a" />
+<h3>Ya estando el la terminal del usuario conx y hacer el reverse shell, despues se revisa las tareas cron del sistemas y elevamos privilegios de root</h3>
+<img width="573" height="245" alt="image" src="https://github.com/user-attachments/assets/6a21b45f-0d53-4649-85fa-13622d1b92bb" />
+
+
