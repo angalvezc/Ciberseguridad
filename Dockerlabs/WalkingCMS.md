@@ -7,3 +7,7 @@
 <h2>3. Se realiza un escaneo con nmap</h2>
 <h3>Logramos identificar que el puerto 80 http esta abierto</h3>
 <img width="995" height="315" alt="image" src="https://github.com/user-attachments/assets/c4ef47dd-8d18-4daf-af5b-c9a7240ab4cf" />
+<h2>4. Accedemos al sitio web</h2>
+<h3>Al parecer se trata de un default page de APACHE</h3>
+<img width="1527" height="888" alt="image" src="https://github.com/user-attachments/assets/8389df70-db2d-44fd-a45b-c8ca4c7a23bb" />
+
