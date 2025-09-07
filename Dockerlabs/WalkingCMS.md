@@ -11,3 +11,8 @@
 <h3>Al parecer se trata de un default page de APACHE</h3>
 <img width="1527" height="888" alt="image" src="https://github.com/user-attachments/assets/8389df70-db2d-44fd-a45b-c8ca4c7a23bb" />
 
+<h2>6. Utilizamos la herramienta DIRB</h2>
+<h3>Con esta herramienta podemos identificar o encontrar rutas no publicas en un sitio web</h3>
+<img width="576" height="784" alt="image" src="https://github.com/user-attachments/assets/8092a337-dd42-410e-af74-58a5c83dc93a" />
+<h3>No se encontraron archivos sensibles pero si http://172.17.0.2/wordpress/</h3>
+<img width="1807" height="824" alt="image" src="https://github.com/user-attachments/assets/f718ddf6-de43-4da1-949a-cff1b43e7a85" />
