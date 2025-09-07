@@ -12,4 +12,7 @@
 <h2>4. Se accede a la ip de la maquina</h2>
 <h3>Se puede observar que hay un login</h3>
 <img width="1173" height="712" alt="image" src="https://github.com/user-attachments/assets/e065422e-8dcd-4a35-bea3-bcacce39e12c" />
-
+<h2>5. Se intenta acceder mediante de SQLInjection</h2>
+<h3>username: admin' or '1'='1
+password: admin' or '1'='1</h3>
+<img width="1176" height="590" alt="image" src="https://github.com/user-attachments/assets/a134fb26-8f0b-4f99-ad31-ccb0ae8fc0c3" />
