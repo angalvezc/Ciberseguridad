@@ -15,4 +15,5 @@
 <h2>5. Se intenta acceder mediante de SQLInjection</h2>
 <h3>username: admin' or '1'='1
 password: admin' or '1'='1</h3>
+<h3>Ahora en el cuadro de mando se indica que los logs están públicos</h3>
 <img width="1176" height="590" alt="image" src="https://github.com/user-attachments/assets/a134fb26-8f0b-4f99-ad31-ccb0ae8fc0c3" />
