@@ -1,9 +1,6 @@
-</head>
-<body>
-  <h1>Máquina BypassMe</h1>
+<h1>Máquina BypassMe</h1>
 
-  <h2>1. Corremos la máquina en Docker</h2>
+<h2>1. Corremos la máquina en Docker</h2>
 
 
-</body>
-</html>
+
