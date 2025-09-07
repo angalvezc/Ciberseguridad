@@ -17,3 +17,7 @@
 password: admin' or '1'='1</h3>
 <h3>Ahora en el cuadro de mando se indica que los logs están públicos</h3>
 <img width="1176" height="590" alt="image" src="https://github.com/user-attachments/assets/a134fb26-8f0b-4f99-ad31-ccb0ae8fc0c3" />
+<h2>6. Utilizamos la herramienta DIRB</h2>
+<h3>Con esta herramienta podemos identificar o encontrar rutas no publicas en un sitio web</h3>
+<img width="459" height="410" alt="image" src="https://github.com/user-attachments/assets/75f09f3e-0880-4113-8062-e855b97074ce" />
+<h3>Como podemos ver exite la ruta /logs con 403 acceso restringido</h3>
