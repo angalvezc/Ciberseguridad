@@ -6,8 +6,10 @@
 
 <h2>2. Se verifica la conexion con la maquina</h2>
 <img width="477" height="163" alt="image" src="https://github.com/user-attachments/assets/8b6c49d2-435b-4f62-ae6d-5d7af2271da8" />
-<h2>2. Se hace un escaneo con nmap</h2>
+<h2>3. Se hace un escaneo con nmap</h2>
 <h3>Con nmap se identifica que entre los 1000 puertos mas comunes se encontro que hay 2 puertos abiertos los cuales son el 22 servicio ssh y el 80 servicio http y ademas los posibles sistemas operativos asociados al host</h3>
 <img width="988" height="332" alt="image" src="https://github.com/user-attachments/assets/83708653-7242-4a5c-aa07-d523e9e9a4ad" />
-
+<h2>4. Se accede a la ip de la maquina</h2>
+<h3>Se puede observar que hay un login</h3>
+<img width="1173" height="712" alt="image" src="https://github.com/user-attachments/assets/e065422e-8dcd-4a35-bea3-bcacce39e12c" />
 
