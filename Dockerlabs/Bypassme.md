@@ -28,4 +28,6 @@ password: admin' or '1'='1</h3>
 <h3>En este log.txt encontramos al usuario albert y se identifica que el 12:04:24 albert se autentico exitosamente con 'NGxiM3J0MTIz' </h3>
 <h2>8. Iniciamos sesion con las credenciales de albert</h2>
 <img width="619" height="276" alt="image" src="https://github.com/user-attachments/assets/7213f441-92b6-488a-ab49-4ecbc6b6c1eb" />
+<h3>Podemos visualizar los procesos que se realizan en el sistema y que se esta realizando un socat ejecutando la bash como el usuario conx</h3>
+<img width="1071" height="327" alt="image" src="https://github.com/user-attachments/assets/d57ae49b-8f89-4b1e-abe6-43bef5a94d52" />
 
