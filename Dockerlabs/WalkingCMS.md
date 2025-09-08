@@ -25,8 +25,9 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <img width="1146" height="534" alt="image" src="https://github.com/user-attachments/assets/fe56802c-4448-4364-bc9a-b0aa20ea8fe1" />
 <h2>8.Procedemos a realizar un SQLInjection mediante la herramienta wpscan</h2>
 <img width="585" height="632" alt="image" src="https://github.com/user-attachments/assets/47a0394d-2b5d-4271-b747-2d3caf5fdbf7" />
-<h3>No se encontro vulnerabilidades pero si un Usurio registrado como mario</h3>
+<h3>No se encontro vulnerabilidades pero si un Usurio registrado como mario mediante wpscan --url http://172.17.0.2/wordpress/ --enumerate u, vp </h3>
 <img width="785" height="167" alt="image" src="https://github.com/user-attachments/assets/5a25c113-1585-4b54-beb7-ae016c7f8866" />
+
 
 
 
