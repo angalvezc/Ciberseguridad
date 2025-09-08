@@ -44,6 +44,10 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <img width="267" height="50" alt="image" src="https://github.com/user-attachments/assets/a4d2170b-88ec-4731-bb0a-55212c501a1a" />
 <img width="964" height="38" alt="image" src="https://github.com/user-attachments/assets/5ada3306-2aca-451f-a48c-a704189f8cb8" />
 <img width="647" height="128" alt="image" src="https://github.com/user-attachments/assets/3e6077f7-ed00-4fe0-bbbb-0408179b23b2" />
+<h3>Buscamos todos los archivos SUID del sistema</h3>
+<img width="693" height="186" alt="image" src="https://github.com/user-attachments/assets/82e68443-b80c-4cd7-912c-22b08b11c251" />
+<h3>/usr/bin/env se encuentra en la lista. Este binario, nos permitirá escalar privilegios </h3>
+<img width="584" height="72" alt="image" src="https://github.com/user-attachments/assets/135e739e-5be7-4376-89b8-0eb0b564ec0b" />
 
 
 
