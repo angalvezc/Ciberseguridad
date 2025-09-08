@@ -20,3 +20,5 @@
 <img width="493" height="160" alt="image" src="https://github.com/user-attachments/assets/a6475df6-5b89-4cc0-af1c-b907ad9c618b" />
 <h3>Nos cambiamos al usuario diego</h3>
 <img width="385" height="71" alt="image" src="https://github.com/user-attachments/assets/8c4a8666-730a-4df3-8311-266307bb6ffe" />
+<h3>En el usuario diego encontramos un acertijo</h3>
+<img width="397" height="663" alt="image" src="https://github.com/user-attachments/assets/b9173ff7-76cd-4194-a52e-c41ca554db97" />
