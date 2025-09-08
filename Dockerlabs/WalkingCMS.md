@@ -33,8 +33,10 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <h2>9.Ingresamos credenciales de mario</h2>
 <img width="1914" height="778" alt="image" src="https://github.com/user-attachments/assets/163ab3b0-e69d-4479-9847-5ccccc5e562e" />
 <h2>10. Ejecucion remota</h2>
-<h3>Se realiza ingresando al Plugin Code Editor y modificando en este caso el index.php, este código es una puerta de acceso completa al sistema</h3>
-<img width="1821" height="690" alt="image" src="https://github.com/user-attachments/assets/bc156619-8a04-4ebb-a2f5-46047eed1466" />
+<h3>Se realiza ingresando al Theme Code Editor y modificando en este caso el index.php, este código es una puerta de acceso completa al sistema</h3>
+<img width="1891" height="758" alt="image" src="https://github.com/user-attachments/assets/c3a16928-36a7-4fcb-9ac1-72a6b5b28b14" />
+
+
 
 
 
