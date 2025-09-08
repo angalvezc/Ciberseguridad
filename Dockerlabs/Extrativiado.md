@@ -12,3 +12,11 @@
 <h3>Encontramos que dice daniela focaroja</h3>
 <h3>Ingresamos con ssh a la maquina con el usuario daniela</h3>
 <img width="715" height="234" alt="image" src="https://github.com/user-attachments/assets/33752b56-be0f-4547-aec7-4b1155154dfa" />
+<h3>Ingresando como password focaroja</h3>
+<img width="619" height="412" alt="image" src="https://github.com/user-attachments/assets/ee55d002-8da9-4f20-aa2b-7437ac731ba8" />
+<h3>Verificamos los bin con SUID</h3>
+<img width="476" height="326" alt="image" src="https://github.com/user-attachments/assets/59983527-3ff1-46b2-96fa-e95383726eff" />
+<h3>Buscamos ficheros con informacion util del administrador del usuario daniela</h3>
+<img width="493" height="160" alt="image" src="https://github.com/user-attachments/assets/a6475df6-5b89-4cc0-af1c-b907ad9c618b" />
+<h3>Nos cambiamos al usuario diego</h3>
+<img width="385" height="71" alt="image" src="https://github.com/user-attachments/assets/8c4a8666-730a-4df3-8311-266307bb6ffe" />
