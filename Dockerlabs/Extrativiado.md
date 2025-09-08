@@ -22,3 +22,5 @@
 <img width="385" height="71" alt="image" src="https://github.com/user-attachments/assets/8c4a8666-730a-4df3-8311-266307bb6ffe" />
 <h3>En el usuario diego encontramos un acertijo</h3>
 <img width="397" height="663" alt="image" src="https://github.com/user-attachments/assets/b9173ff7-76cd-4194-a52e-c41ca554db97" />
+<h3>Cambiamos al ususario root con el password osoazul</h3>
+<img width="432" height="92" alt="image" src="https://github.com/user-attachments/assets/13b8c7a3-8cbb-48cd-82a1-a8efbc494674" />
