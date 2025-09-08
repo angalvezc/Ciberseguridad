@@ -23,8 +23,9 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <img width="1319" height="689" alt="image" src="https://github.com/user-attachments/assets/d7908a97-1ad9-4514-b854-ef06ed2ffc2f" />
 <h3>Utilizando otra herramienta de busqueda de directorios en el se encontro varios con autenticacion wordpress </h3>
 <img width="1146" height="534" alt="image" src="https://github.com/user-attachments/assets/fe56802c-4448-4364-bc9a-b0aa20ea8fe1" />
-<h2>Procedemos a realizar un SQLInjection mediante la herramienta wpscan</h2>
+<h2>8.Procedemos a realizar un SQLInjection mediante la herramienta wpscan</h2>
 <img width="1170" height="729" alt="image" src="https://github.com/user-attachments/assets/864affce-107f-4cf8-a8e1-aa1820972965" />
+
 
 
 
