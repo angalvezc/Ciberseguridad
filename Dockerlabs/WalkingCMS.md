@@ -16,3 +16,6 @@
 <img width="576" height="784" alt="image" src="https://github.com/user-attachments/assets/8092a337-dd42-410e-af74-58a5c83dc93a" />
 <h3>No se encontraron archivos sensibles pero si http://172.17.0.2/wordpress/</h3>
 <img width="1807" height="824" alt="image" src="https://github.com/user-attachments/assets/f718ddf6-de43-4da1-949a-cff1b43e7a85" />
+<h2>7. Utilizamos el wfuzz para buscar wp-config.php</h2>
+<h3>Los archivos como wp-config.php contienen credenciales de la base de datos y rutas críticas, pero al ingresar no se muetra nada ya porque realmento no posee nada o no es accesible HTTP</h3>
+<img width="1680" height="437" alt="image" src="https://github.com/user-attachments/assets/1b108374-bda1-4bd0-9879-5dac4fa06a62" />
