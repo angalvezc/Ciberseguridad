@@ -35,7 +35,11 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <h2>10. Ejecucion remota</h2>
 <h3>Se realiza ingresando al Theme Code Editor y modificando en este caso el index.php, este código es una puerta de acceso completa al sistema</h3>
 <img width="1891" height="758" alt="image" src="https://github.com/user-attachments/assets/c3a16928-36a7-4fcb-9ac1-72a6b5b28b14" />
-
+<h3>Hacemos UpdateFile</h3>
+<img width="111" height="67" alt="image" src="https://github.com/user-attachments/assets/fd7917e7-5fc3-42e1-acc4-941cc1a01c1a" />
+<h3>e ejecutó un comando sencillo para verificar la vulnerabilidad http://172.17.0.2/wordpress/wp-content/themes/twentytwentytwo/index.php?cmd=whoami
+ al ejecutarse debera salir whoami y www-data al usuario con el que corre el servicio web.</h3>
+<img width="1915" height="658" alt="image" src="https://github.com/user-attachments/assets/8c19cce0-548f-4833-a5f7-625c7d958b07" />
 
 
 
