@@ -41,7 +41,10 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
  al ejecutarse debera salir whoami y www-data al usuario con el que corre el servicio web.</h3>
 <img width="1900" height="620" alt="image" src="https://github.com/user-attachments/assets/e8d6dea6-2ac4-41ad-80eb-53b0d78be8ac" />
 <h3>Se ha conseguido una ejecucion remota con el cmd, ahora se procede al reverse shell poniendo en escucha el puerto 443</h3>
+<img width="267" height="50" alt="image" src="https://github.com/user-attachments/assets/a4d2170b-88ec-4731-bb0a-55212c501a1a" />
+<img width="964" height="38" alt="image" src="https://github.com/user-attachments/assets/5ada3306-2aca-451f-a48c-a704189f8cb8" />
 <img width="647" height="128" alt="image" src="https://github.com/user-attachments/assets/3e6077f7-ed00-4fe0-bbbb-0408179b23b2" />
+
 
 
 
