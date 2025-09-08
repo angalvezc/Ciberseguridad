@@ -25,13 +25,14 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <img width="1146" height="534" alt="image" src="https://github.com/user-attachments/assets/fe56802c-4448-4364-bc9a-b0aa20ea8fe1" />
 <h2>8.Procedemos a realizar un SQLInjection mediante la herramienta wpscan</h2>
 <img width="585" height="632" alt="image" src="https://github.com/user-attachments/assets/47a0394d-2b5d-4271-b747-2d3caf5fdbf7" />
-<h3>No se encontro vulnerabilidades pero si un Usurio registrado como mario mediante wpscan --url http://172.17.0.2/wordpress/ --enumerate u, vp </h3>
+<h3>Se encontro vulnerabilidades con el XML-RPC.php y  un Usurio registrado como mario mediante wpscan --url http://172.17.0.2/wordpress/ --enumerate u, vp </h3>
 <img width="785" height="167" alt="image" src="https://github.com/user-attachments/assets/5a25c113-1585-4b54-beb7-ae016c7f8866" />
-
+<img width="717" height="168" alt="image" src="https://github.com/user-attachments/assets/67d19560-720d-4e20-8516-c37f81a43799" />
 <h3>WPScan intentará cada contraseña de la lista para el usuario mario con wpscan --url http://172.17.0.2/wordpress/ --passwords /usr/share/wordlists/rockyou.txt --usernames mario </h3>
 <img width="833" height="332" alt="image" src="https://github.com/user-attachments/assets/9b01a492-e7c3-40aa-bd44-0541befa8f07" />
 <h2>9.Ingresamos credenciales de mario</h2>
 <img width="1914" height="778" alt="image" src="https://github.com/user-attachments/assets/163ab3b0-e69d-4479-9847-5ccccc5e562e" />
+
 
 
 
