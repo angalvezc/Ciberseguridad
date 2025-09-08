@@ -21,8 +21,10 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <h3>Los archivos como wp-config.php contienen credenciales de la base de datos y rutas críticas, pero al ingresar no se muetra nada ya porque realmente no posee nada o no es accesible HTTP</h3>
 <img width="1680" height="437" alt="image" src="https://github.com/user-attachments/assets/1b108374-bda1-4bd0-9879-5dac4fa06a62" />
 <img width="1319" height="689" alt="image" src="https://github.com/user-attachments/assets/d7908a97-1ad9-4514-b854-ef06ed2ffc2f" />
-<h3>Utilizando otra herramienta de busqueda de directorios en el se encontro varios con autenticacion </h3>
+<h3>Utilizando otra herramienta de busqueda de directorios en el se encontro varios con autenticacion wordpress </h3>
 <img width="1146" height="534" alt="image" src="https://github.com/user-attachments/assets/fe56802c-4448-4364-bc9a-b0aa20ea8fe1" />
+<br>
 <img width="1170" height="729" alt="image" src="https://github.com/user-attachments/assets/864affce-107f-4cf8-a8e1-aa1820972965" />
+
 
 
