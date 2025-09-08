@@ -32,6 +32,10 @@ Encontramos http://172.17.0.2/wordpress/index.php (CODE:301|SIZE:0)  </h3>
 <img width="833" height="332" alt="image" src="https://github.com/user-attachments/assets/9b01a492-e7c3-40aa-bd44-0541befa8f07" />
 <h2>9.Ingresamos credenciales de mario</h2>
 <img width="1914" height="778" alt="image" src="https://github.com/user-attachments/assets/163ab3b0-e69d-4479-9847-5ccccc5e562e" />
+<h2>10. Se realiza un reverse sheell </h2>
+<h3>Se realiza ingresando al Plugin Code Editor y modificando en este caso el index.php, este código es una puerta de acceso completa al sistema</h3>
+<img width="1821" height="690" alt="image" src="https://github.com/user-attachments/assets/bc156619-8a04-4ebb-a2f5-46047eed1466" />
+
 
 
 
